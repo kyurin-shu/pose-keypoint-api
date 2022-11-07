@@ -11,8 +11,8 @@ API_URL: https://lddngv4k56.execute-api.ap-northeast-1.amazonaws.com/v2/pose-key
 ```json
 {
     "body": <画像をbase64にエンコードしたもの>,
-    "model": "lightning" or "thunder",
-    "format": "normal" or "lite"
+    "model": <"lightning" or "thunder">,
+    "format": <"normal" or "lite">
 }
 ```
 
