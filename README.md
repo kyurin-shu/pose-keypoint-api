@@ -4,6 +4,8 @@
 
 Lambda + API Gateway
 
+API_URL: https://lddngv4k56.execute-api.ap-northeast-1.amazonaws.com/v2/pose-keypoint
+
 ## Request
 
 ```json
